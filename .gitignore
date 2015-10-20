@@ -1,0 +1,6 @@
+# Mac OS files
+.DS_Store
+
+# Modules
+prototype/node_modules
+prototype/bower_components
