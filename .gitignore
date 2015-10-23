@@ -2,5 +2,5 @@
 .DS_Store
 
 # Modules
-prototype/node_modules
-prototype/bower_components
+node_modules
+bower_components
