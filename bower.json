@@ -11,8 +11,8 @@
     "bower_components"
   ],
   "devDependencies": {
-    "bourbon": "~4.2.5",
-    "neat": "~1.7.2",
-    "normalize-scss": "~3.0.1"
+    "bourbon": "~4.2.6",
+    "neat": "~1.7.4",
+    "normalize-scss": "~3.0.3"
   }
 }

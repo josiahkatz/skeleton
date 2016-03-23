@@ -1,5 +1,5 @@
 {
-  "name": "name",
+  "name": "skeleton",
   "version": "0.0.1",
   "author": "Josiah Katz <josiahkatz@gmail.com>",
   "description": "description",
@@ -9,9 +9,9 @@
     "url": "https://github.com/josiahkatz/skeleton"
   },
   "devDependencies": {
-    "bower": "~1.6.2",
-    "gulp": "~3.9.0",
-    "gulp-sass": "~2.0.4",
-    "browser-sync": "~2.9.11"
+    "bower": "~1.7.7",
+    "gulp": "~3.9.1",
+    "gulp-sass": "~2.2.0",
+    "browser-sync": "~2.11.2"
   }
 }
