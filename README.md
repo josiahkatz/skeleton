@@ -1,10 +1,29 @@
-# Skeleton - WIP
-Compiles SASS, with a glass of Bourbon Neat, into CSS and reloads your changes live in the browser.
+# Skeleton
+Compiles SASS into CSS and reloads your changes with Browser Sync
+## Dependencies
 
-## Setting Up Node, npm, Bower & Gulp
-1. __[Install Node](https://nodejs.org/download)__
-1. __Update npm to latest version:__ `sudo npm install npm -g`
-1. __Install Bower globally__ `sudo npm install -g bower`
-1. __Install Node Modules:__    `npm install`
-1. __Install Bower Components:__   `bower install`
-1. __Run gulp:__   `gulp`
+* [Bourbon](http://bourbon.io) - SASS mixin library
+
+## Developing
+
+If you don't already have [Node](https://nodejs.org/download) installed, you're gonna want to make that happen.
+
+You also might need to update/install npm or bower globally:
+
+```shell
+npm install npm -g
+npm install bower -g
+npm install gulp -g
+```
+This will install the node packages like gulp-sass and browser sync and pull in bourbon and chartist dependencies:
+
+```shell
+npm install
+bower install
+```
+
+Gulp will start the browser-sync anc compile your CSS. You should be seeing a live updating version of the page now:
+
+```shell
+gulp
+```

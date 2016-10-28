@@ -9,9 +9,9 @@
     "url": "https://github.com/josiahkatz/skeleton"
   },
   "devDependencies": {
-    "bower": "~1.7.7",
+    "bower": "~1.7.9",
     "gulp": "~3.9.1",
-    "gulp-sass": "~2.2.0",
-    "browser-sync": "~2.11.2"
+    "gulp-sass": "~2.3.2",
+    "browser-sync": "~2.17.3"
   }
 }
